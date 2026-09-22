@@ -1,1 +1,1 @@
-#Git practice
+Learning Git through WSL
