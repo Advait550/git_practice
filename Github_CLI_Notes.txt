@@ -1,0 +1,10 @@
+- Basic Github Workflow:
+1. cd folder location
+2. git init
+3. git add file_name
+4. git branch -M main       (master -> main)
+5. git remote add origin git@github.com:Advait550/RepoName.git
+6. git remote -v
+7. git commit -m "Message"
+8. git push -u origin main
+
